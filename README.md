@@ -24,7 +24,6 @@ The aim of this project is to create and execute a To-Do List application that u
 First user had to choose whether the user wants to Log in by using option 1 or want to sign up into the application by entering the option 2.
 Login:
 For Login the user had to enter his/her username and password is he enter wrong username and password then he will reenter the data until the data is not correct. It will all work using the algorithm of Recursion.
-
 Sign up:
 For sign up he had to enter or provide his/her username and password. Then user had to enter his/her age.
 
@@ -49,7 +48,7 @@ In the end the result of the user will be displayed on the console which include
 8) Save result:
 The results of the user are saved in the csv file.
 
-#Conclusion
+# Conclusion
 In conclusion, implementing a to-do list application using stacks, queues, hash tables, trees, and linked lists offers a rich learning experience in handling various data structures. Successfully integrating these diverse structures results in a robust, scalable, and efficient to-do list application, showcasing the practical application of theoretical concepts. This project not only enhances technical skills but also prepares for tackling more complex software development tasks in the future.
 
 
